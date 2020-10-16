@@ -7,7 +7,7 @@ Full-stack Developer | Software Enginner
   <img width="200" alt="hello!" align="left" src="https://media.giphy.com/media/yvxm1UoHaG8ko/giphy.gif">
 </p>
 
-Problem Solving ⚡ | Gaming ⚡ | Keyboards ⚡ | Soldering ⚡ | Growing ⚡
+Problem Solving | Gaming | Keyboards | Soldering | Growing
 
 I'm from Virginia - USA
 
