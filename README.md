@@ -11,7 +11,7 @@ Problem Solving | Gaming | Keyboards | Soldering | Growing
 
 I'm from Virginia - USA
 
-I have a B.S degree in Computer Science & Computer Engineering | <b>Christopher Newport University</b>
+I have a B.S. degree in Computer Science & Computer Engineering | <b>Christopher Newport University</b>
 
 I enjoy organizing DevOps solutions and developing in Java, Kotlin, Javascript, Bash, Python, Ruby
 
