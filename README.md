@@ -1,6 +1,6 @@
 ## Hi, im Stephen ⚡
 
-Full-stack Developer | Software Enginner
+Full-stack Developer | Software Engineer
 
 ## About me
 <p>
